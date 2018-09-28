@@ -11,7 +11,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "~6.0",
-        "illuminate/support": "^5.6"
+        "illuminate/support": "v5.7.6"
     },
     "autoload": {
         "psr-4": {
